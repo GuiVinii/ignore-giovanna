@@ -1,0 +1,12 @@
+@font-face{
+    font-family: infinit-darkness;
+    src: url(Infinite\ Darkness.ttf);
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-family: 'infinit-darkness';
+}
